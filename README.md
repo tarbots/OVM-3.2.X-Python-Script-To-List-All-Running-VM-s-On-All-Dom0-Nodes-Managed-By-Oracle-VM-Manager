@@ -3,7 +3,7 @@ Python Script Attached will list all the VM's on all the Dom0 Nodes Managed by O
 
 Syntax: Below is syntax for running the Python script on Host running Oracle VM Manager 3.2.X.
 
-        /usr/bin/ovm_shell.sh -u admin -p <password> -i /tmp/ovm-32x-list-all-running-vms.py
+        /usr/bin/ovm_shell.sh -u admin -p <password> -i /tmp/ovm-32x-list-all-vms-status.py
  
 Replace password in above command will "admin" user password of Oracle VM Manager (OVMM).
 
